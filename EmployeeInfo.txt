@@ -1,0 +1,10 @@
+employ01|nur aisyah|Manager|sungkai|30
+employ02|faezzah azreen|Supervisor|beranang|28
+employ03|nur aini|Executive|lumut|25
+
+
+employ04|mohd hakimi|Executive|semenyih|20
+employ01|nur aisyah|Manager|sungkai|30
+employ01|nur aisyah|Manager|sungkai|30
+employ01|nur aisyah|Manager|sungkai|28
+employ01|nur aisyah|Manager|sungkai|-2

@@ -1,0 +1,17 @@
+c:\users\user\documents\visual studio 2015\Projects\Leave Management System\Leave Management System\bin\Debug\Leave Management System.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Leave Management System\Leave Management System\obj\Debug\Leave_Management_System.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Leave Management System\Leave Management System\obj\Debug\Leave Management System.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2015\Projects\Leave Management System\Leave Management System\obj\Debug\Leave_Management_System.ApplyandCheckLeave.resources
+C:\Users\User\documents\visual studio 2015\Projects\Leave Management System\Leave Management System\bin\Debug\Leave Management System.exe
+C:\Users\User\documents\visual studio 2015\Projects\Leave Management System\Leave Management System\bin\Debug\Leave Management System.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Leave Management System\Leave Management System\obj\Debug\Leave Management System.exe
+C:\Users\User\documents\visual studio 2015\Projects\Leave Management System\Leave Management System\obj\Debug\Leave Management System.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Leave Management System\Leave Management System\obj\Debug\Leave_Management_System.ApplyLeaveForm.resources
+C:\Users\User\documents\visual studio 2015\Projects\Leave Management System\Leave Management System\obj\Debug\Leave_Management_System.EmployeeInfoForm.resources
+C:\Users\User\documents\visual studio 2015\Projects\Leave Management System\Leave Management System\obj\Debug\Leave_Management_System.AdminForm.resources
+C:\Users\User\documents\visual studio 2015\Projects\Leave Management System\Leave Management System\obj\Debug\Leave_Management_System.ApprovalForm.resources
+C:\Users\User\documents\visual studio 2015\Projects\Leave Management System\Leave Management System\obj\Debug\Leave Management System.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Leave Management System\Leave Management System\obj\Debug\Leave_Management_System.CheckLeave.resources
+C:\Users\User\documents\visual studio 2015\Projects\Leave Management System\Leave Management System\obj\Debug\Leave_Management_System.LoginForm.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Leave Management System\Leave Management System\obj\Debug\Leave_Management_System.Help_Admin.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Leave Management System\Leave Management System\obj\Debug\Leave_Management_System.Help_Employee.resources

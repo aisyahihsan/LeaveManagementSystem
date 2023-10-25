@@ -1,0 +1,10 @@
+
+
+employ01|nur aisyah|krabi|2|01/08/2018|02/08/2018|business seminar|Pending
+
+
+
+employ01|nur aisyah|krabi|2|01/08/2018|02/08/2018|business seminar|REJECTED
+employ01|nur aisyah|krabi|2|01/08/2018|02/08/2018|business seminar|APPROVED
+employ01|nur aisyah|sungkai|30|30/09/2018|01/09/2018|maternity leave|Pending
+employ01|nur aisyah|sungkai|30|30/09/2018|01/09/2018|maternity leave|APPROVED
